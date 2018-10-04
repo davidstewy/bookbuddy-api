@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "repository": "https://github.com/tander29/bookbuddy-api.git",
+  "repository": "https://github.com/davidstewy/bookbuddy-api.git",
   "author": "Kyle Meiklejohn <kmeiklejohn4@gmail.com>",
   "dependencies": {
     "cors": "^2.8.4",
